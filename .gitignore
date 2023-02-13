@@ -1,0 +1,67 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Sublime Text files
+*.sublime-workspace
+
+# IDEs and editors
+*.iml
+*.idea
+*.vscode
+
+# Log files and backups
+*.log
+*.bak
+
+# MySQL Files
+*.sql
+
+# Python
+*.pyc
+
+# node_modules
+node_modules/
+
+# Compiled Assets
+/dist
+/build
+/out
+
+# Folder/file that is more sensitive in nature
+secret-folder/
+secret-file.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Sublime Text files
+*.sublime-workspace
+
+# IDEs and editors
+*.iml
+*.idea
+*.vscode
+
+# Log files and backups
+*.log
+*.bak
+
+# MySQL Files
+*.sql
+
+# Python
+*.pyc
+
+# node_modules
+node_modules/
+
+# Compiled Assets
+/dist
+/build
+/out
+
+# Folder/file that is more sensitive in nature
+secret-folder/
+secret-file.txt
