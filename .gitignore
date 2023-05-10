@@ -65,3 +65,8 @@ node_modules/
 # Folder/file that is more sensitive in nature
 secret-folder/
 secret-file.txt
+
+chatGPTFunctions/*
+!chatGPTFunctions/Deserialize.js
+!chatGPTFunctions/Serialize.js
+!chatGPTFunctions/package.json
